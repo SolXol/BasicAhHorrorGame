@@ -1,12 +1,5 @@
 fileFormatVersion: 2
 guid: 92f60417f0f33e9428efe6ede4fb222b
-AssetOrigin:
-  serializedVersion: 1
-  productId: 170036
-  packageName: Environmental Asset Pack
-  packageVersion: 1.0
-  assetPath: Assets/JP Environmental Asset Pack/Shaders/DoubleSided.shader
-  uploadId: 371416
 ShaderImporter:
   externalObjects: {}
   defaultTextures: []
@@ -14,3 +7,10 @@ ShaderImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 170036
+  packageName: Environmental Asset Pack
+  packageVersion: 1.0
+  assetPath: Assets/JP Environmental Asset Pack/Shaders/DoubleSided.shader
+  uploadId: 371416
